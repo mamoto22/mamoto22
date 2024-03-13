@@ -9,6 +9,7 @@
 
 
 ![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=mamoto22&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamoto22)](https://github.com/mamoto22/github-readme-stats)
 
 ## Tecnologias que eu estudo e pratico no meu dia a dia!
 
